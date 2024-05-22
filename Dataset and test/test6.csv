@@ -1,0 +1,2 @@
+dur,proto,service,state,spkts,dpkts,sbytes,dbytes,rate,sttl,dttl,sload,dload,sloss,dloss,sinpkt,dinpkt,sjit,djit,swin,stcpb,dtcpb,dwin,tcprtt,synack,ackdat,smean,dmean,trans_depth,response_body_len,ct_srv_src,ct_state_ttl,ct_dst_ltm,ct_src_dport_ltm,ct_dst_sport_ltm,ct_dst_src_ltm,is_ftp_login,ct_ftp_cmd,ct_flw_http_mthd,ct_src_ltm,ct_srv_dst,is_sm_ips_ports
+0.642701,tcp,-,FIN,10,8,598,354,26.450868,254,252,6709.185059,3858.714844,2,1,71.411222,78.960141,4399.7552,119.756906,255,2237050220,2518756480,255,0.1348,0.089358,0.045442,60,44,0,0,1,1,1,1,1,1,0,0,0,2,1,0
